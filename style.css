@@ -104,7 +104,7 @@ border-right: 2px solid var(--primary-color);
 }
 
 .landing{
-    background-image: url(images/pexels-ella-olsson-572949-1640772.jpg);
+    background-image: url(./images/pexels-ella-olsson-572949-1640772.jpg);
     background-size: cover;
     height: 100vh;
 }
